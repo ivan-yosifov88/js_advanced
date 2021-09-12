@@ -6,7 +6,7 @@ function convertWordsToUpper(text_input){
         if (element === ''){
             continue
         }
-        let subString= element.toUpperCase()
+        let subString = element.toUpperCase()
         upperLettersOnly.push(''+subString)
     }
     console.log(upperLettersOnly.join(', ')) 
