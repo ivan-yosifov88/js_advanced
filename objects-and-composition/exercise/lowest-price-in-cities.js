@@ -19,7 +19,7 @@ function lowestPriceInCIties(arrayOfStrings){
 
 }
 
-
+// Only this decision work but I'm not sure that is right.
 function printLowestPrices(params) {
     let stat = new Map();
 
